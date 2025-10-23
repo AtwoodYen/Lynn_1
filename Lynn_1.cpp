@@ -6,7 +6,7 @@ int main(){
     int n;
     cin>>n;
     cout << "Hello, World!" << endl;
-    for (int x=0;x<n:x=x=+1)
+    for (int x=0;x<n:x=x+2)
      {
         ans=ans+x;
     }
